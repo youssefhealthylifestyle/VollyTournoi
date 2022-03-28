@@ -4,7 +4,7 @@
    const minsE1 = document.getElementById("mins");
     const secondsE1 = document.getElementById("seconds");
 
-const newYears=("30 Mar 2022");
+const newYears=("29 Mar 2022");
 function countdown(){  
     const newYearsDate = new Date(newYears);
     const currentDate = new Date();
